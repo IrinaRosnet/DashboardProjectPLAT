@@ -1,0 +1,1 @@
+SERVICE_URL = 'http://account-site.rosnetdev.com:3000/?redir=http://dashboard-site.rosnetdev.com:3001'
